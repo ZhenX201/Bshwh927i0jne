@@ -1,7 +1,7 @@
-workspace.Main.RemoteEvent:FireServer(99999999)
+workspace.Main.RemoteEvent:FireServer(999999999999)
 
-workspace.Main2.RemoteEvent:FireServer(99999999)
+workspace.Main2.RemoteEvent:FireServer(999999999999)
 
-workspace.Main3.RemoteEvent:FireServer(99999999)
+workspace.Main3.RemoteEvent:FireServer(999999999999)
 
 game:GetService("ReplicatedStorage").bicep:FireServer(-9999999)
